@@ -1,1 +1,1 @@
-a script that reads tje standard output
+a script that reads standard output
