@@ -1,1 +1,1 @@
-a script that prints the standrd output
+shell_variables_expansions
