@@ -1,1 +1,1 @@
-shell_variable_expansions
+shell_variables_expansions
